@@ -1,8 +1,8 @@
 ## Abstract
 
-**Title**: Facebook News Topics
+#### Shin Lee, Julie Kim, Josh Koo
 
-**Members**: Shin Lee, Julie Kim, Josh Koo
+**Title**: Facebook News Topics
 
 **Contact**: joshuakoo2017@u.northwestern.edu
 
