@@ -10,7 +10,7 @@
 
 ### What?:
 
-# Our website: https://shinandruth.github.io/fbnewstopic/
+# Our website: https://shinandruth.github.io/Facebook-News-Topics/
 
 You can use the [editor on GitHub](https://github.com/shinandruth/fbnewstopic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
