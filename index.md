@@ -33,6 +33,7 @@ Type was used to distinguish the different topics during the analysis. The analy
 
 ### Analysis
 ## Results
+/***
 | Classifier | Accuracy | Precision (Yes) | Recall (Yes) |
 | --- | --- | --- | ---|
 | ZeroR | 95.2747 | N/A | 0 |
@@ -42,7 +43,7 @@ Type was used to distinguish the different topics during the analysis. The analy
 | J48 | 95.2746  | N/A | 0 |
 | SimpleLogistic | 96.7033 | 81.0 | 39.5 |
 | BayesNet | 90.7692 | 31.9 | 83.7 |
-
+***/
 
 ## Conclusion
 
