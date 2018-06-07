@@ -36,7 +36,13 @@ Type was used to distinguish the different topics during the analysis. The analy
 | Classifier | Accuracy | Precision (Yes) | Recall (Yes) |
 | --- | --- | --- | ---|
 | ZeroR | 95.2747 | N/A | 0 |
-| git diff | Show file differences that haven't been staged |
+| Naive Bayes | 93.956 | 40.9 | 62.8 |
+| Logistic | 96.4835 | 64.9 | 55.8 |
+| IBk | 96.2637 | 65.5 | 44.2 |
+| J48 | 95.2746  | N/A | 0 |
+| SimpleLogistic | 96.7033 | 81.0 | 39.5 |
+| BayesNet | 90.7692 | 31.9 | 83.7 |
+
 
 ## Conclusion
 
