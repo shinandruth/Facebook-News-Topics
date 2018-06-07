@@ -31,6 +31,7 @@ The scraping scripts were written in Python 3.6.4 and Selenium, a user interface
 
 Type was used to distinguish the different topics during the analysis. The analysis investigated the top trends for all five topics in addition to the top trends for each of the topics. Title and description were collected for detail for each news trend. The trend link was used to uniquely identify each trend. Rank was collected to discover where in the list certain new trends were placed and whether they moved up or down the list. Scrape ID was used with trend link to uniquely identify trends for the whole dataset. Timestamp was used to keep track of the time and date the data was collected, which was critical when analyzing the trend behavior at different days of the week.
 
+### Analysis
 ## Results
 
 ## Conclusion
