@@ -16,7 +16,16 @@ We wanted to apply machine learning techniques to classify Facebook News topics 
 
 ## Introduction
 ### *Motivation*
-Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This introduced and influenced us to investigate and apply machine learning techniques to Facebook News. This is important because traditional news are being replaced with online news. According to a study by Pew Research Center, 67% of Americans get their news from social media. This is very interesting because many online news companies are consistently making affort to provide accurate recommendations for their users and we wanted to create a similar task by using machine learning to classify news topics.    
+Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This introduced and influenced us to investigate and apply machine learning techniques to Facebook News. This is important because traditional news are being replaced with online news. According to a study by Pew Research Center, 67% of Americans get their news from social media. This is very interesting because many online news companies are consistently making affort to provide accurate recommendations for their users and we wanted to create a similar task by using machine learning to classify news topics.  
+
+## Methodology
+### Method
+
+### Data
+
+## Results
+
+## Conclusion
 
 ### Sources
 https://www.recode.net/2017/9/7/16270900/social-media-news-americans-facebook-twitter
