@@ -1,3 +1,5 @@
+# Our website: https://shinandruth.github.io/Facebook-News-Topics/
+
 ## Abstract
 
 #### Shin Lee, Julie Kim, Josh Koo
@@ -10,7 +12,11 @@
 
 ### What?:
 
-# Our website: https://shinandruth.github.io/Facebook-News-Topics/
+## Introduction
+### *Motivation*
+
+
+
 
 You can use the [editor on GitHub](https://github.com/shinandruth/fbnewstopic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
