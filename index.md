@@ -1,7 +1,5 @@
 # Our website: https://shinandruth.github.io/Facebook-News-Topics/
 
-## Abstract
-
 #### Shin Lee, Julie Kim, Josh Koo
 
 **Title**: Facebook News Topics
@@ -10,11 +8,15 @@
 
 **Course**: Machine Learning: EECS 349 at Northwestern University
 
+## Abstract
+We wanted to apply machine learning techniques to classify Facebook News topics and give news recommendation for users who are interested in certain topics. For example, if Sam is activate on Facebook and he likes news about cars, we wanted our machine learning techniques to classify news topics related to cars into a category and give recommendations accordingly. Using programming and analytical methods, we wrote scripts to scrape data from Facebook Trending News, conducted pre-processing on our collected data, and analyze the data with Weka.  
+
 ### What?:
+
 
 ## Introduction
 ### *Motivation*
-
+Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This influenced us to investigate and apply machine learning techniques to Facebook News.  
 
 
 
