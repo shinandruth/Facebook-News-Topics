@@ -11,15 +11,14 @@
 ## Abstract
 We wanted to apply machine learning techniques to classify Facebook News topics and give news recommendation for users who are interested in certain topics. For example, if Sam is activate on Facebook and he likes to read news about cars, we wanted our machine learning techniques to classify news topics related to cars into a category and give recommendations accordingly. Using programming and analytical methods, we wrote scripts to scrape data from Facebook Trending News, conducted pre-processing on our collected data, and analyze the data with Weka.  
 
-### What?:
-
-
 ## Introduction
 ### *Motivation*
 The project tackles the broad task of analyzing news articles and determining whether or not the topic of the article is based on tech companies. To be specific, our project deals with analyzing news articles under the Facebook “Trending” news column. From that analysis, we can extrapolate information to classify other news articles as articles about certain tech companies via the usage of a machine learner. This task is important because of how relevant tech-related discussion is in recent times and because of how wide-spread the usage of Facebook is. In fact, according to a study by Pew Research Center, 67% of Americans get their news from social media. Additionally, Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. Therefore we believe it is crucial for social media news platforms to give relevant news topics and due to the prevalence of the tech scene, we decided to pursue those avenues of media. Ultimately our project aims to allow easy distribution of important tech-related news articles relevant to certain users on Facebook.   
 
 ## Methodology
-### Data 
+### Data
+Our raw data consisted of roughly 50,000 data each with the 7 attributes listed below.  
+
 The scraping scripts were written in Python 3.6.4 and Selenium, a user interface (UI) automation tool that automates UI testing. Selenium was selected because it can simulate a real human user and trick the web browsers. It can distribute and scale scripts over many different environments and can create robust, regression automation tests. Regression automation test’s purpose is to catch bugs that were accidently introduced and make sure previous bugs stay dead. Initially, we collected data using Mozilla Firefox because Selenium IDE, a Firefox add-on, was only available on Firefox and we had experience with Selenium IDE. Since we did not use Selenium IDE for this experiment but instead we used Selenium WebDriver which is available on multiple browsers, we were not restricted to one browser.  After running into issues with Firefox when running the scripts on the AWS cloud server, we changed from Firefox to Google Chrome. Another reason we changed from Firefox to Chrome was because Chrome is the most popular web browser with roughly 78% of browser usage verses 11% for Firefox . It was important to collect data from the most commonly used browser since there was a greater chance most Facebook users use Chrome to access their Facebook accounts. We collected the following attributes:
 *	Type: The topic (top trends, politics, science and technology, sports, or entertainment)
 *	Title: Title of news trend
@@ -31,7 +30,6 @@ The scraping scripts were written in Python 3.6.4 and Selenium, a user interface
 
 Type was used to distinguish the different topics during the analysis. The analysis investigated the top trends for all five topics in addition to the top trends for each of the topics. Title and description were collected for detail for each news trend. The trend link was used to uniquely identify each trend. Rank was collected to discover where in the list certain new trends were placed and whether they moved up or down the list. Scrape ID was used with trend link to uniquely identify trends for the whole dataset. Timestamp was used to keep track of the time and date the data was collected, which was critical when analyzing the trend behavior at different days of the week.
 
-### Analysis
 ## Results
 
 | Classifier | Accuracy | Precision (Yes) | Recall (Yes) |
