@@ -9,16 +9,17 @@
 **Course**: Machine Learning: EECS 349 at Northwestern University
 
 ## Abstract
-We wanted to apply machine learning techniques to classify Facebook News topics and give news recommendation for users who are interested in certain topics. For example, if Sam is activate on Facebook and he likes news about cars, we wanted our machine learning techniques to classify news topics related to cars into a category and give recommendations accordingly. Using programming and analytical methods, we wrote scripts to scrape data from Facebook Trending News, conducted pre-processing on our collected data, and analyze the data with Weka.  
+We wanted to apply machine learning techniques to classify Facebook News topics and give news recommendation for users who are interested in certain topics. For example, if Sam is activate on Facebook and he likes to read news about cars, we wanted our machine learning techniques to classify news topics related to cars into a category and give recommendations accordingly. Using programming and analytical methods, we wrote scripts to scrape data from Facebook Trending News, conducted pre-processing on our collected data, and analyze the data with Weka.  
 
 ### What?:
 
 
 ## Introduction
 ### *Motivation*
-Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This introduced and influenced us to investigate and apply machine learning techniques to Facebook News.  
+Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This introduced and influenced us to investigate and apply machine learning techniques to Facebook News. This is important because traditional news are being replaced with online news. According to a study by Pew Research Center, 67% of Americans get their news from social media. This is very interesting because many online news companies are consistently making affort to provide accurate recommendations for their users and we wanted to create a similar task by using machine learning to classify news topics.    
 
-
+### Sources
+https://www.recode.net/2017/9/7/16270900/social-media-news-americans-facebook-twitter
 
 You can use the [editor on GitHub](https://github.com/shinandruth/fbnewstopic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
