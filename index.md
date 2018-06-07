@@ -1,8 +1,11 @@
 ## Abstract
 
 **Title**: Facebook News Topics
+
 **Members**: Shin Lee, Julie Kim, Josh Koo
+
 **Contact**: joshuakoo2017@u.northwestern.edu
+
 **Course**: Machine Learning: EECS 349 at Northwestern University
 
 ### What?:
