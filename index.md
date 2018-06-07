@@ -16,7 +16,7 @@ We wanted to apply machine learning techniques to classify Facebook News topics 
 
 ## Introduction
 ### *Motivation*
-Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This influenced us to investigate and apply machine learning techniques to Facebook News.  
+Facebook has recently been a topic of hot discussion regarding fake news and algorithms that present bias posts. This introduced and influenced us to investigate and apply machine learning techniques to Facebook News.  
 
 
 
