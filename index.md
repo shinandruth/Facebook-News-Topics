@@ -33,6 +33,10 @@ Type was used to distinguish the different topics during the analysis. The analy
 
 ### Analysis
 ## Results
+| Classifier | Accuracy | Precision (Yes) | Recall (Yes) |
+| --- | --- | --- | ---|
+| ZeroR | 95.2747 | N/A | 0 |
+| git diff | Show file differences that haven't been staged |
 
 ## Conclusion
 
