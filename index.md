@@ -40,6 +40,7 @@ Type was used to distinguish the different topics during the analysis. The analy
 | J48 | 95.2746  | N/A | 0 |
 | SimpleLogistic | 96.7033 | 81.0 | 39.5 |
 | BayesNet | 90.7692 | 31.9 | 83.7 |
+
 This is a chart depicting the results that various machine learners achieve on our data. We recorded accuracy, precision, and recall. While some of the results might be sporadic, we want to focus on precision. In terms of importance, we say that precision and recall are more important than accuracy, as a large amount of data is not related to tech companies, and so when classifiers classify most examples is irrelevant, they will achieve high accuracy anyway. Precision is given more importance than recall, as precision shows how many of our classifications were actually correct classifications, whereas recall only shows how many within a category we were able to classify correctly as that category. In other words, precision is more important because we are placing more importance on showing relevant news articles, even if it might lead to fewer news articles.
 
 
