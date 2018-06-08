@@ -4,7 +4,7 @@
 
 **Title**: Facebook News Topics
 
-**Contact**: joshuakoo2017@u.northwestern.edu
+**Contact**: joshuakoo2019@u.northwestern.edu
 
 **Course**: Machine Learning: EECS 349 at Northwestern University
 
