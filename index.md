@@ -1,4 +1,5 @@
 #### Shin Lee, Julie Kim, Josh Koo
+#<a href="Facebook News Topic.pdf">PDF Report</a>
 
 **Title**: Facebook News Topics
 
