@@ -34,7 +34,7 @@ We tried several learners via Weka, the exhaustive list being: Naive Bayes, Logi
 
 ## Results
 
-![PrecisionRecallBarGraph](/blob/master/precision:recall.png)
+![PrecisionRecallBarGraph](/precision:recall.png)
 Figure 1. Precision and Recall Results for Trained Models on Test Data
 
 The figure above depicts the results that various machine learners achieved on our data. Although we recorded accuracy, precision, and recall, the above figure reports precision and recall, which were the values we focused on. We believe precision and recall are the most important, more so than accuracy. Our results, in terms of accuracy, performed well across the board with different machine learners. This is not very informative, however, because given that the media covers a large variety of topics and thus most news articles are not about tech companies, the machine learners can achieve high accuracy by classifying most articles as irrelevant to our topic of tech companies. 
