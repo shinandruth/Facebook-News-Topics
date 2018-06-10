@@ -1,5 +1,3 @@
-# Our website: https://shinandruth.github.io/Facebook-News-Topics/
-
 #### Shin Lee, Julie Kim, Josh Koo
 
 **Title**: Facebook News Topics
@@ -52,8 +50,12 @@ Our solution, in terms of accuracy, performed well across the board with differe
 
 ## Full Report
 
+
 ### Sources
 https://www.recode.net/2017/9/7/16270900/social-media-news-americans-facebook-twitter
+
+Website: https://shinandruth.github.io/Facebook-News-Topics/
+
 
 
 
