@@ -49,8 +49,6 @@ The figure above depicts the results that various machine learners achieve on ou
 Our solution, in terms of accuracy, performed well across the board with different machine learners. This is not very informative, however, as our data shows that most news articles will not be about tech companies because there is such a large variety of topics that the media covers. As a result, machine learners will get similar accuracies by classifying most articles as not relevant to tech companies. Therefore we judged performance by focusing on precision. The machine learners with the best precision were Simple Logistic and IBk, ran by Weka. As far as the features go, by looking at an unpruned decision tree, we found that title was the most important. As a key finding, we observed that the classifications primarily work with key words in the article titles, therefore news articles regarding large tech companies often have the name of the companies in the title.
 
 
-## Full Report
-
 
 ### Sources
 https://www.recode.net/2017/9/7/16270900/social-media-news-americans-facebook-twitter
