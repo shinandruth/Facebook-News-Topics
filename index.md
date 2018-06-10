@@ -1,5 +1,5 @@
 #### Shin Lee, Julie Kim, Josh Koo
-# <a href="https://github.com/shinandruth/Facebook-News-Topics/blob/master/Facebook%20News%20Topics%20Final.pdf">PDF Report</a>
+# <a href="https://drive.google.com/file/d/1DcTWeD-aPUXmMo8_JMSjXRw_mG9wI9OB/view?usp=sharing">PDF Report</a>
 
 **Title**: Facebook News Topics
 
